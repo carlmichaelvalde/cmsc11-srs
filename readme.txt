@@ -1,5 +1,6 @@
 Welcome! Glad to find you checking our program.
-This is a CMSC11-Student Registration System and by default, CMSC11 is the default subject of this program.
+This is a CMSC11-Student Registration System program created by a group of students from University of the Philippines Cebu.
+And by default, CMSC11 is the default subject of this program.
 This program auto saves files you have created and to extract these files you need to copy the default [data.csv and subjectlist.csv] file and rename it.
 This program features:
 	- Log On Credentials 
