@@ -60,9 +60,9 @@ Limitation of the Program:
 	- A maximum of 100 subjects will be registered
 	- If the subject is unregistered, the program will ask to create that subject with exactly the same subject code, otherwise, a student will be unenrolled to that specific subject
 NOTE:
+• Copy all the files from the CMSC11-Student Registration Syztem.zip folder
 • Use Codeblocks and set console to fullscreen mode to have an undistorted User Interface
 • Default Subject can be updated with the New Subject Code or New Subject Title
-• Copy all the files from the zip folder
 • I have provided you (student.txt and subject.txt) file samples to test
 • Import first the subject file to get rid of creating unregistered subject
 • And by default the file is empty with only default (CMSC11) subject registered
